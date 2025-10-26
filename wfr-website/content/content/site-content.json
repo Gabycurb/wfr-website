@@ -1,0 +1,56 @@
+{
+  "hero": {
+    "title": "WFR",
+    "subtitle": "Wood Finishes and Renovations",
+    "description": "Transform your space with expert craftsmanship and attention to detail",
+    "backgroundImages": [
+      "/portfolio/staircase1.jpg",
+      "/portfolio/staircase2.jpg",
+      "/portfolio/staircase3.jpg"
+    ]
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "Piano Style",
+      "description": "Elegant piano-style staircase renovation",
+      "images": ["/portfolio/staircase1.jpg", "/portfolio/staircase2.jpg"],
+      "mainImage": "/portfolio/staircase1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Cinnamon Style",
+      "description": "Warm cinnamon-toned wood finishing",
+      "images": ["/portfolio/staircase3.jpg", "/portfolio/staircase4.jpg"],
+      "mainImage": "/portfolio/staircase3.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Modern Black",
+      "description": "Contemporary black finish with modern aesthetics",
+      "images": ["/portfolio/staircase5.jpg", "/portfolio/staircase6.jpg"],
+      "mainImage": "/portfolio/staircase5.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Minimalist",
+      "description": "Clean, minimalist design approach",
+      "images": ["/portfolio/staircase7.jpg"],
+      "mainImage": "/portfolio/staircase7.jpg"
+    }
+  ],
+  "quality": {
+    "title": "Quality Craftsmanship",
+    "description": "We take pride in delivering exceptional results that stand the test of time. Our team of skilled craftsmen brings years of experience to every project, ensuring meticulous attention to detail and superior finishing.",
+    "image": "/portfolio/staircase2.jpg"
+  },
+  "about": {
+    "description": "Wood Finishes and Renovations is a premier provider of high-quality wood finishing and renovation services. With a passion for craftsmanship and a commitment to excellence, we transform ordinary spaces into extraordinary showcases of beauty and functionality."
+  },
+  "contact": {
+    "phone": "+1 (647) 534-0805",
+    "email": "woodfinishedandrenovations@gmail.com",
+    "instagram": "@_w.f.r_official",
+    "facebook": "https://www.facebook.com/people/WFR/61556810645588/"
+  }
+}
